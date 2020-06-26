@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LiveUpdates</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Country</string>
+    <string name="title_Country">Country</string>
+    <string name="title_country">Country</string>
+    <string name="tag">Error Response</string>
+
+
+</resources>
